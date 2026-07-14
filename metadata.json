@@ -1,0 +1,6 @@
+{
+  "name": "آوانویس آبان",
+  "description": "سامانه هوشمند و دقیق تبدیل انواع فایل‌های صوتی به متن فارسی به همراه امکان ویرایش و خروجی ورد و پی‌دی‌اف",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
